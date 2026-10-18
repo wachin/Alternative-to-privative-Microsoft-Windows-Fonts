@@ -128,10 +128,18 @@ If you want to download all these fonts at once, I have them in a repository. Ju
 mkdir -p ~/.local/share/fonts
 cd ~/.local/share/fonts
 git clone https://github.com/wachin/Alternativa-a-fuentes-de-Windows
+```
+
+#### Deleting .git folder
+
+If you want to save some space, you can delete the .git folder, which is hidden within the repository:
+
+```bash
 rm -fr ~/.local/share/fonts/Alternativa-a-fuentes-de-Windows/.git
 ```
 
-**Note:** The last command, `rm -fr ...`, deletes the duplicated repository metadata that manages the files on GitHub, because there is no point in wasting space there unnecessarily.
+This `rm -fr ...`, deletes the duplicated repository metadata that manages the files on GitHub. In my case, I do need it, because whenever I find a new font, I’ll add it and then commit and push; for you, however, it won’t be of any use—well, it would be useful if you had forked my repository and cloned it from there.
+
 
 # Installing fonts in Linux
 
