@@ -7,26 +7,26 @@ This tutorial explains how to install free fonts on Linux that can be used as al
 The following table lists typical document uses for free alternatives to proprietary Microsoft fonts:
 
    
-|  **Windows Font**        |                                             **Non-Proprietary Alternatives**                                             |                    **Common Use in Documents**                     |                                      **Notes**                                       |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| **Arial**                | **Free Sans** / **Liberation Sans** / **Nimbus Sans** / **IBM Plex Sans** / **Ubuntu Sans**                             | Body text, headings, subheadings                                   | Standard and versatile sans-serif font.                                              |
-| **Times New Roman**      | **Free Serif / Liberation Serif / Nimbus Roman / IBM Plex Serif**                                                       | Body text, formal reports, books                                   | Classic serif font for professional documents.                                       |
-| **Courier New**          | **FreeMono / Liberation Mono**                                                                                          | Code, technical documents, monospaced text                         | Monospaced font used in programming and tabular text.                                 |
-| **Calibri**              | **Carlito** / **Lato**                                                                                                  | Body text, presentations                                           | Modern and readable font.                                                            |
-| **Cambria**              | **Caladea / Cambo**                                                                                                     | Body text, formal reports                                          | Similar to Times New Roman, with better on-screen readability.                       |
-| **Comic Sans MS**        | **Comic Neue**                                                                                                          | Informal, educational, and children's presentation text             | Comic Neue is more refined.                                                          |
-| **Verdana**              | **DejaVu Sans**                                                                                                         | Body text, web pages, graphical interfaces                         | Excellent screen readability.                                                        |
-| **Georgia**              | **Gelasio**                                                                                                             | Body text, document headings                                       | Serif font with good screen readability.                                             |
-| **Trebuchet MS**         | **Fira Sans**                                                                                                           | Headings, subheadings, presentations                               | Alternative with a clean, modern design.                                             |
-| **Impact**               | **Anton** / **Oswald**                                                                                                  | Eye-catching headings                                              | Anton is an alternative with strong visual impact.                                   |
-| **Tahoma**               | **Signika**                                                                                                             | Body text in graphical interfaces and business documents            | Similar spacing and clarity.                                                         |
-| **Palatino Linotype**    | **Source Serif 4**                                                                                                      | Books, essays, academic texts                                      | Based on the Palatino design.                                                        |
-| **Book Antiqua**         | **P052 / C059**                                                                                                         | Body text in elegant or classic documents                          | Classic alternatives with a refined style.                                           |
-| **Franklin Gothic Book** | **Libre Franklin**                                                                                                      | Headings, posters, headers                                         | Heavy sans-serif font with a strong style.                                           |
-| **Century Gothic**       | **URW Gothic**                                                                                                          | Modern headings, graphic design                                    | Clean and futuristic design.                                                         |
-| **Rockwell**             | **Arvo**                                                                                                                | Headings with visual impact                                        | Slab-serif style alternatives.                                                       |
-| **Baskerville**          | **Goudy Bookletter 1911**                                                                                               | Body text in classic and elegant documents                         | Font with excellent print readability.                                               |
-| **Consolas**             | **JetBrains Mono** / **DejaVu Sans Mono** / **Fira Code** / **Hack** / **Iosevka** / **Victor Mono** / **Fragment Mono** | Programming code, terminals, technical documents                   | Consolas is monospaced; its alternatives support code ligatures.                     |
+| **Windows Font** | **Non-Proprietary Alternatives** | **Common Use in Documents** | **Notes** |
+| --- | --- | --- | --- |
+| **Arial** | **Free Sans** / **Liberation Sans** / **Nimbus Sans** / **IBM Plex Sans** / **Ubuntu Sans** | Body text, headings, subheadings | Standard and versatile sans-serif font. |
+| **Times New Roman** | **Free Serif / Liberation Serif / Nimbus Roman / IBM Plex Serif** | Body text, formal reports, books | Classic serif font for professional documents. |
+| **Courier New** | **FreeMono / Liberation Mono** | Code, technical documents, monospaced text | Monospaced font used in programming and tabular text. |
+| **Calibri** | **Carlito** / **Lato** | Body text, presentations | Modern and readable font. |
+| **Cambria** | **Caladea / Cambo** | Body text, formal reports | Similar to Times New Roman, with better on-screen readability. |
+| **Comic Sans MS** | **Comic Neue** | Informal, educational, and children's presentation text | Comic Neue is more refined. |
+| **Verdana** | **DejaVu Sans** | Body text, web pages, graphical interfaces | Excellent screen readability. |
+| **Georgia** | **Gelasio** | Body text, document headings | Serif font with good screen readability. |
+| **Trebuchet MS** | **Fira Sans** | Headings, subheadings, presentations | Alternative with a clean, modern design. |
+| **Impact** | **Anton** / **Oswald** | Eye-catching headings | Anton is an alternative with strong visual impact. |
+| **Tahoma** | **Signika** | Body text in graphical interfaces and business documents | Similar spacing and clarity. |
+| **Palatino Linotype** | **Source Serif 4** | Books, essays, academic texts | Based on the Palatino design. |
+| **Book Antiqua** | **P052 / C059** | Body text in elegant or classic documents | Classic alternatives with a refined style. |
+| **Franklin Gothic Book** | **Libre Franklin** | Headings, posters, headers | Heavy sans-serif font with a strong style. |
+| **Century Gothic** | **URW Gothic** | Modern headings, graphic design | Clean and futuristic design. |
+| **Rockwell** | **Arvo** | Headings with visual impact | Slab-serif style alternatives. |
+| **Baskerville** | **Goudy Bookletter 1911** | Body text in classic and elegant documents | Font with excellent print readability. |
+| **Consolas** | **Inconsolata** / **JetBrains Mono** / **DejaVu Sans Mono** / **Fira Code** / **Hack** / **Iosevka** / **Victor Mono** / **Fragment Mono** | Programming code, terminals, technical documents | Consolas is monospaced; its alternatives support code ligatures. |
 
 ## Installing free fonts from Linux repositories (Debian/MX Linux/Ubuntu, etc.)
 
@@ -111,6 +111,9 @@ https://fonts.google.com/specimen/EB+Garamond
 
 **Signika**  
 [https://fonts.google.com/specimen/Signika](https://fonts.google.com/specimen/Signika)
+
+**Inconsolata**
+[https://fonts.google.com/specimen/Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
 **Iosevka -> Alternative to Consolas**  
 [https://github.com/be5invis/Iosevka/releases](https://github.com/be5invis/Iosevka/releases)  
